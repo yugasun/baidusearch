@@ -1,11 +1,11 @@
 # baidusearch-cli
 
-[![CI](https://github.com/yourusername/baidusearch-cli/actions/workflows/ci.yml/badge.svg)](https://github.com/yourusername/baidusearch-cli/actions/workflows/ci.yml)
+[![CI](https://github.com/yugasun/baidusearch-cli/actions/workflows/ci.yml/badge.svg)](https://github.com/yugasun/baidusearch-cli/actions/workflows/ci.yml)
 [![npm version](https://badge.fury.io/js/baidusearch-cli.svg)](https://www.npmjs.com/package/baidusearch-cli)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.9-blue.svg)](https://www.typescriptlang.org/)
 
-A TypeScript library for searching Baidu (百度搜索) programmatically. Inspired by library [baidusearch-cli](https://github.com/amazingcoderpro/python-baidusearch-cli)
+A TypeScript library for searching Baidu (百度搜索) programmatically. Inspired by library [baidusearch](https://github.com/amazingcoderpro/python-baidusearch)
 
 ## Features
 
